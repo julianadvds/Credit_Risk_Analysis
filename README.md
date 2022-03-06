@@ -11,10 +11,8 @@ The results for the six machine learning models and their scores in balanced acc
 | Technique | Accuracy  | Precision| Recall (Sensitivity) | F1 Score |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 |Naive Random Oversampling  | 65.73%  | 1%  | 71%  | 2%  |
-
 | SMOTE Oversampling  | 66.22%  | 1%  | 63%  | 2%  |
-
-| Undersampling  | XX  | 1%  |   | Content Cell  |
+| Undersampling  | 66.22%  | 1%  |  69% | 1%  |
 
 | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
 
