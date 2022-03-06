@@ -18,3 +18,22 @@ The results for the six machine learning models and their scores in balanced acc
 | Easy Ensemble AdaBoost Classifier  | 91.54%  | 0.05  | 0.93  |  0.10 |
 
 ### Naive Random Oversampling
+![Pic_1](https://github.com/julianadvds/Credit_Risk_Analysis/blob/main/Resources/Classification_report_RandomOversampling.png)
+
+### SMOTE Oversampling
+![Pic_2](https://github.com/julianadvds/Credit_Risk_Analysis/blob/main/Resources/Classification_report_SMOTEOversampling.png)
+
+### Undersampling
+![Pic_3](https://github.com/julianadvds/Credit_Risk_Analysis/blob/main/Resources/Classification_report_Undersampling.png)
+
+### Combination (Over and Under) Sampling
+![Pic_4](https://github.com/julianadvds/Credit_Risk_Analysis/blob/main/Resources/Classification_report_Combination(OverandUnder)Sampling.png)
+
+### Balanced Random Forest Classifier
+![Pic_5](https://github.com/julianadvds/Credit_Risk_Analysis/blob/main/Resources/Classification_report_BalancedRandomForestClassifier.png)
+
+### Easy Ensemble AdaBoost Classifier
+![Pic_6](https://github.com/julianadvds/Credit_Risk_Analysis/blob/main/Resources/Classification_report_EasyEnsembleAdaBoostClassifier.png)
+
+
+## Summary
