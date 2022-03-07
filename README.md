@@ -37,3 +37,5 @@ The results for the six machine learning models and their scores in balanced acc
 
 
 ## Summary
+
+When reviewing the results table, it is clear to see that there is a big difference between the metrics used to evaluate the six machine model techniques.  From the table, it is also clear which model is is the most appropriate for assessing high-risk loans, the Easy Ensemble AdaBoost Classifier.  This model had a 91% accuracy while all other models were less than 80%.  The Easy Ensemble AdaBoost Classifier also had the highest precision, although the difference was only 0.04. This model also has the highest f1 score at 0.10 while most models were around 0.02. The final metric, recall, was a high 0.93, while the rest of the models were at 0.70 or less.  
